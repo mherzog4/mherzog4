@@ -58,7 +58,14 @@
   
  ### :fire: My Stats :
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mherzog4)](https://git.io/streak-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mherzog4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+---
+  
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=mattherzog5)](https://github.com/gazf/github-readme-twitter)
+
 
   
   
