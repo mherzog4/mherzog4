@@ -61,11 +61,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mherzog4)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mherzog4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
----
-  
- <img src="[https://www.linkedin.com/in/matthewherzog3/]/experience?username=[Matthewherzog3]"/>
-
+ 
   
   
    
