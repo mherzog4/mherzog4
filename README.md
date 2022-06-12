@@ -8,11 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=mherzog4e&style=flat-square&color=blue" alt="" width="130"/>
   </a>
 </div>
-
-<h1>
-  Hey there
-</h1>
-
 ---
 
 ### :cowboy_hat_face: About Me :
