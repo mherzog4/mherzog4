@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/matthewherzog3/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="95"/>
     <img src="https://komarev.com/ghpvc/?username=mherzog4e&style=flat-square&color=blue" alt="" width="135"/>
   </a>
 </div>
