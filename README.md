@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Software Engineering student @ Flatiron School</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mherzog4&label=Profile%20views&color=0e75b6&style=flat" alt="mherzog4" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://mherzog4.github.io/my-personal-site/](https://mherzog4.github.io/my-personal-site/)
 
 - 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering here [https://mattherzog.substack.com/](https://mattherzog.substack.com/)
