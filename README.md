@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mherzog4&label=Profile%20views&color=0e75b6&style=flat" alt="mherzog4" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mattherzog5" target="blank"><img src="https://img.shields.io/twitter/follow/mattherzog5?logo=twitter&style=for-the-badge" alt="mattherzog5" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://mherzog4.github.io/my-personal-site/](https://mherzog4.github.io/my-personal-site/)
 
 - 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering here [https://mattherzog.substack.com/](https://mattherzog.substack.com/)
