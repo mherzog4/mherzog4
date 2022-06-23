@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mherzog4&label=Profile%20views&color=0e75b6&style=flat" alt="mherzog4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mherzog4" alt="mherzog4" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mattherzog5" target="blank"><img src="https://img.shields.io/twitter/follow/mattherzog5?logo=twitter&style=for-the-badge" alt="mattherzog5" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://mherzog4.github.io/my-personal-site/](https://mherzog4.github.io/my-personal-site/)
@@ -15,20 +13,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "mattherzog@substack.com"
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
