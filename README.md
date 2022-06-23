@@ -13,13 +13,13 @@
 
 ### :cowboy_hat_face: About Me :
 
-- :handshake: I’m working as an Account Development Representative at Salesforce.
+- :handshake: I'm currently enrolled in Flatiron's School Software Engineering program with an expected graduated date in October.
 
 - :nerd_face:	Exploring software development and technical concepts.
 
 - :zap: In my free time, I like to go to the gym, read, and practicing new skills.
 
-- :mailbox: Connect with me on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewherzog3/)
+- :mailbox: Subscribe to my Substack where I break down the technical concepts I am learning and share my playbook on how to make the move into software engineering from a non-traditional background: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewherzog3/)
 
 ---
 
