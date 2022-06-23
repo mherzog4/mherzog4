@@ -19,8 +19,8 @@
 
 - :zap: In my free time, I like to go to the gym, read, and practicing new skills.
 
-- :mailbox: Subscribe to my Substack where I break down the technical concepts I am learning and share my playbook on how to make the move into software engineering from a non-traditional background: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewherzog3/)
-
+- :mailbox: Subscribe to my Substack where I break down the technical concepts I am learning and share my playbook on how to make the move into software engineering from a non-traditional background: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mattherzog.substack.com/)
+- 
 ---
 
 ### :toolbox: Languages and tools I am learning :
