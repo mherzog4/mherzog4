@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mherzog4.github.io/my-personal-site/](https://mherzog4.github.io/my-personal-site/)
 
-- 📝 I regularly write articles on [https://mattherzog.substack.com/](https://mattherzog.substack.com/)
+- 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering here [https://mherzog4.github.io/my-personal-site/](https://mattherzog.substack.com/)
 
 - 📫 How to reach me **matt@mattherzog.me**
 
