@@ -9,7 +9,7 @@
 
 - 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering here [https://mattherzog.substack.com/](https://mattherzog.substack.com/)
 
-- 📫 How to reach me **matt@mattherzog.me**
+- 📫 You can email me here :point_right: **matt@mattherzog.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
