@@ -20,6 +20,8 @@
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mherzog4&" alt="mherzog4" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mherzog4)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 name: Waka Readme
 
