@@ -26,9 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mherzog4&" alt="mherzog4" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mherzog4)](https://github.com/anuraghazra/github-readme-stats)
-  </details>
-
-<!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 name: Waka Readme
 
 on:
@@ -46,6 +44,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
+  </details>
 
-<h3 align="left">Support:</h3>
+
+
+<details>
+  <summary>Support:</summary>
 <p><a href="https://www.buymeacoffee.com/mherzog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mherzog" /></a></p><br><br>
+  </details>
