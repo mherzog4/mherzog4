@@ -20,6 +20,24 @@
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mherzog4&" alt="mherzog4" /></p>
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 31e69d8b-b708-4ff1-b903-e1eb9191efbd }}
+          GH_TOKEN: ${{ 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 }}
+<!--END_SECTION:waka-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mherzog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mherzog" /></a></p><br><br>
