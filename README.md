@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Software Engineering student @ Flatiron School</h3>
 
-- 👨‍💻 All of my projects are available at [https://mherzog4.github.io/my-personal-site/](https://mherzog4.github.io/my-personal-site/)
+- 👨‍💻 All of my projects are available at [here](https://mherzog4.github.io/my-personal-site/)
 
 - 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering here [https://mattherzog.substack.com/](https://mattherzog.substack.com/)
 
