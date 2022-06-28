@@ -23,28 +23,20 @@
 
 <details>
   <summary>Github Stats:</summary>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mherzog4&" alt="mherzog4" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mherzog4&" alt="mherzog4"/>
+  </p>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mherzog4)](https://github.com/anuraghazra/github-readme-stats)
-  <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-<!--END_SECTION:waka-->
+    </details>
+    
+   
+<details>
+<summary>Language Stats:</summary>
+<p align = "center">
+  <img src ="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/56293276-88fe-4d14-8aba-158706a1bb1e.svg" height="400"/>
+  </p>
   </details>
+
 
 
 
