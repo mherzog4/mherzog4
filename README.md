@@ -29,17 +29,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mherzog4)](https://github.com/anuraghazra/github-readme-stats)
     </details>
     
-   
-<details>
-<summary>Language Stats:</summary>
-<p align = "center">
-  <img src ="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/56293276-88fe-4d14-8aba-158706a1bb1e.svg" height="400"/>
-  </p>
-  </details>
-
-
-
-
 <details>
   <summary>Support:</summary>
 <p><a href="https://www.buymeacoffee.com/mherzog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mherzog" /></a></p><br><br>
