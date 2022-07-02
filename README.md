@@ -34,6 +34,10 @@
   <p align = "center">
   <img src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/955c20ba-8269-4189-a962-010104fcec3f.svg" height="400"/>
   </p>
+  <hr>
+   <p align = "center">
+  <img src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/ee6428a6-9b08-41f0-8433-fb03445bbe58.svg" height="400"/>
+  </p>
   </details>
     
 <details>
