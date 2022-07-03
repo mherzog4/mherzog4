@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available :point_right: [here](https://mherzog4.github.io/my-personal-site/)
 
-- 📝 Check out my Substack where I deconstruct technical topics related and share my playbook on how to break into software engineering :point_right: [here](https://mattherzog.substack.com/)
+- 📝 Check out my Substack where I deconstruct technical topics and share my playbook on how to break into software engineering :point_right: [here](https://mattherzog.substack.com/)
 
 - 📫 You can email me here :point_right: **matt@mattherzog.me**
 
