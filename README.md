@@ -44,13 +44,3 @@
 <p><a href="https://www.buymeacoffee.com/mherzog"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mherzog" /></a></p><br><br>
   </details>
   
-  ---
-  <!-- YOUTUBE-VIDEOS-LIST:START -->
-  <!-- YOUTUBE-VIDEOS-LIST:END -->
-  ---
-  
----
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
----
