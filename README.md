@@ -5,7 +5,7 @@
 
 - 📝 Check out my Substack where I deconstruct technical topics and share my playbook on how to break into software engineering :point_right: [here](https://mattherzog.substack.com/)
 
-- 📫 Reach out to me here @ **matt@mattherzog.me**
+- 📫 Reach out to me here **matt@mattherzog.me**
 
 <details>
   <summary>Connect with me:</summary>
