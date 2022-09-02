@@ -16,6 +16,7 @@
 
 <details>
   <summary>Dashboards:</summary>
-<figure><embed src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/7cf95cd6-736d-454d-8e17-2a03aedfbd5f.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/c410c98e-5cbf-4d1e-aae6-413726a73fc6.png
+    :target: https://wakatime.com/
 <figure><embed src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/fe361484-6703-4616-9b51-591ccbd5e38f.svg"></embed></figure>
   </details>
