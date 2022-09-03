@@ -24,13 +24,13 @@
 <p align="left">
 <a href="https://twitter.com/mattherzog5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattherzog5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mattherzog3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattherzog3" height="30" width="40" /></a>
+  
+## Dashboards
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mherzog4?theme=dark&font=UnifrakturCook)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mherzog4&theme=react&show_icons=true&count_private=true)
-<details>
-  <summary>Dashboards:</summary>
+
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/56aee8a8-9105-48cd-94f1-bf37744687d3.png" /></a>
-  </details>
 
 
