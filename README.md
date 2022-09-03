@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](https://mherzog4.github.io/my-personal-site/)
 
-- 📝 My newsletter where I deconstruct technical topics and share my playbook on how to break into software engineering :point_right: [here](https://mattherzog.substack.com/)
+- 📝 My newsletter where I deconstruct technical topics :point_right: [here](https://mattherzog.substack.com/)
 
 - 📫 Reach out to me here :point_right: **matt@mattherzog.me**
 
