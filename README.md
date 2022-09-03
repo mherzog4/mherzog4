@@ -27,7 +27,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mherzog4?theme=dark&font=UnifrakturCook)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Mherzog4&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mherzog4&theme=react&show_icons=true&count_private=true)
 <details>
   <summary>Dashboards:</summary>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e585de3f-31d6-4ba7-b049-8cbe0c86598a/56aee8a8-9105-48cd-94f1-bf37744687d3.png" /></a>
