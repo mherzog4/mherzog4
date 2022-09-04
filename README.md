@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="left">Software Engineering student @ Flatiron School</h3>
+## Software Engineering student @ Flatiron School
 
 - 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](https://mherzog4.github.io/my-personal-site/)
 
