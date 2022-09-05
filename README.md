@@ -22,21 +22,13 @@
 <img align="left" alt="Heroku" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 <img align="left" alt="NodeJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-          
-          
-          
-          
-          
-          
-          
-
-
 <br></br>
 
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/mattherzog5" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattherzog5" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/matthewherzog3/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattherzog3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matthewherzog3/" target="_blank"> <img align="center" src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" alt="mattherzog3" height="30" width="40" /></a>
   
 ## Dashboards
 
