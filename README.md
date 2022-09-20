@@ -7,7 +7,7 @@
 
 - 📫 Reach out to me here :point_right: **matt@mattherzog.me**
 
-## Techstack
+## <details> Techstack
 
 
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
