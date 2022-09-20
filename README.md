@@ -9,7 +9,7 @@
 
 ## Techstack
 
-<details>
+<details><summary>Languages</summary>
                 
 
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
