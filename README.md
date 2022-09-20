@@ -28,20 +28,20 @@
           
 </details>
 
-<Libraries/Frameworks>
+<details><summary>Libraries/Frameworks</summary>
 
 WIP
-</Libraries/Frameworks>
+</details>
 
-<Databases>
+<details><summary>Databases</summary>
   WIP
-</Databases>
+</details>
 
-<Certifications>
+<details><summary>Certifications</summary>
   
  WIP
   
-</Certifications>
+</details>
 
 
 
