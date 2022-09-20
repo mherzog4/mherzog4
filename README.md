@@ -34,9 +34,7 @@ WIP
 </details>
 
 <details><summary>Certifications</summary>
-  
  WIP
-  
 </details>
 
 <br></br>
