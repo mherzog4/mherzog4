@@ -11,7 +11,7 @@
 
 * Languages 
 
-- HTML
+  - HTML
 
 <details><summary>Libraries/Frameworks</summary>
 
