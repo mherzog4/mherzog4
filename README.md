@@ -13,18 +13,19 @@
 
   - HTML
 
-<details><summary>Libraries/Frameworks</summary>
+* Libraries/Frameworks
 
-WIP
-</details>
+  - React
 
-<details><summary>Databases</summary>
-  WIP
-</details>
 
-<details><summary>Certifications</summary>
- WIP
-</details>
+* Databases
+
+  - MySQL
+
+* Certifications
+
+  - WIP
+
 
 ## Connect with me
 <p align="left">
