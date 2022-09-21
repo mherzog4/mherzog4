@@ -9,9 +9,9 @@
 
 ## Techstack
 
-<details><summary>Languages</summary>
-  WIP
-</details>
+* Languages 
+
+- HTML
 
 <details><summary>Libraries/Frameworks</summary>
 
