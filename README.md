@@ -40,9 +40,14 @@
   - Heroku Architect(in progress) 
   - Salesforce Developer(in progress)
   
-* 3rd party software
+* Other
 
   - Algolia
+  - REST APIs
+  - Postman
+  - Figma
+  - Github actions
+  
   
 
 ## Connect with me
