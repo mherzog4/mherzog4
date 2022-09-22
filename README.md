@@ -47,19 +47,6 @@
   - Postman
   - Figma
   - Github actions
-
-## Latest Youtube Videos
-<!-- Youtube:START -->
-<!-- Youtube:END -->
-
-### Latest StackOveflow activity of [@gautamkrishnar](https://github.com/gautamkrishnar)
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
-</table>
-  
-  
-
 ## Connect with me
 <p align="left">
 <a href="https://twitter.com/mattherzog5" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattherzog5" height="30" width="40" /></a>
