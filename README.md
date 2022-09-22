@@ -12,20 +12,38 @@
 * Languages 
 
   - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - Ruby
 
 * Libraries/Frameworks
 
   - React
-
+  - Formik
+  - Material UI
+  - Tailwind
+  - Ruby on Rails
 
 * Databases
 
   - MySQL
+  - Postgres
+  - MongoDB
+  - Firebase
 
 * Certifications
 
-  - WIP
+  - AWS Cloud Practioner(in progress)
+  - MongoDB Associate(in progress)
+  - MySQL Database Developer(in progress)
+  - Heroku Architect(in progress) 
+  - Salesforce Developer(in progress)
+  
+* 3rd party software
 
+  - Algolia
+  
 
 ## Connect with me
 <p align="left">
