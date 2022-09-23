@@ -7,38 +7,42 @@
 
 - 📫 Reach out to me here :point_right: **matt@mattherzog.me**
 
+## Connect with me
+<p align="left">
+<a href="https://twitter.com/mattherzog5" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattherzog5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matthewherzog3/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattherzog3" height="30" width="40" /></a>
+
 ## Techstack
 
-* Languages 
-
+* Front-end
   - HTML
   - CSS
   - JavaScript
-  - Python
-  - Ruby
-
-* Libraries/Frameworks
-
   - React
   - Formik
   - Material UI
   - Tailwind
+
+* Back-end
+  - Ruby
   - Ruby on Rails
+  - Python
+  - NodeJS
+  - ExpressJS
+  - Mongoose
+  - Prisma
+  - Active Record
 
 * Databases
-
   - MySQL
   - Postgres
   - MongoDB
   - Firebase
-
+ 
 * Certifications
-
-  - AWS Cloud Practioner(in progress)
+  - aws cloud practitioner(in progress)
   - MongoDB Associate(in progress)
   - MySQL Database Developer(in progress)
-  - Heroku Architect(in progress) 
-  - Salesforce Developer(in progress)
   
 * Other
 
@@ -47,10 +51,7 @@
   - Postman
   - Figma
   - Github actions
-## Connect with me
-<p align="left">
-<a href="https://twitter.com/mattherzog5" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mattherzog5" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/matthewherzog3/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattherzog3" height="30" width="40" /></a>
+
   
 ## Dashboards
 
