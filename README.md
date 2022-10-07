@@ -27,7 +27,7 @@ This is how you dropdown.
 <details>
 <summary>Front-end</summary>
 <br>
-  * HTML
+   * HTML
 <br>
   - CSS
 <br>
