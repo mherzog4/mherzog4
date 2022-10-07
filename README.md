@@ -37,7 +37,6 @@
 
 <details>
 <summary>Back-end</summary>
-<br>
   - Ruby
 <br>
   - Ruby on Rails
@@ -59,7 +58,6 @@
 
 <details>
 <summary>Databases</summary>
-<br>
   - MySQL
 <br>
   - Postgres
@@ -72,7 +70,6 @@
  
 <details>
 <summary>Certifications</summary>
-<br>
   - aws cloud practitioner(in progress)
    <br>
   - MongoDB Developer(in progress)
@@ -81,7 +78,6 @@
   
 <details>
 <summary>Other</summary>
-<br>
   - Algolia
 <br>
   - REST APIs
