@@ -28,6 +28,7 @@ This is how you dropdown.
 <summary>Front-end</summary>
 <br>
   - HTML
+<br>
   - CSS
   - JavaScript
   - React
