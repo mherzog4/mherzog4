@@ -17,16 +17,8 @@
 <a href="https://www.youtube.com/channel/UCDzCTSF0N2HNG7lBDj22mFw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mattherzog" height="30" width="40" /></a>
 
 ## Techstack
-
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
 <details>
 <summary>Front-end</summary>
-<br>
   - HTML
 <br>
   - CSS
