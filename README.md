@@ -18,7 +18,15 @@
 
 ## Techstack
 
-* Front-end
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>Front-end</summary>
+<br>
   - HTML
   - CSS
   - JavaScript
@@ -26,6 +34,7 @@
   - Formik
   - Material UI
   - Tailwind
+ </details>
 
 * Back-end
   - Ruby
