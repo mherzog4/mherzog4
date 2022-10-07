@@ -27,7 +27,7 @@ This is how you dropdown.
 <details>
 <summary>Front-end</summary>
 <br>
-   * HTML
+  - HTML
 <br>
   - CSS
 <br>
@@ -81,18 +81,21 @@ This is how you dropdown.
 <details>
 <summary>Databases</summary>
 <br>
-  * aws cloud practitioner(in progress)
-  * MongoDB Developer(in progress)
+  - aws cloud practitioner(in progress)
+  - MongoDB Developer(in progress)
 <br>
   </details>
   
-* Other
-
+<details>
+<summary>Databases</summary>
+<br>
   - Algolia
   - REST APIs
   - Postman
   - Figma
   - Github actions
+ <br>
+  </details>
 
   
 ## Dashboards
