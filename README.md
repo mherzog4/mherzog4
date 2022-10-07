@@ -27,36 +27,64 @@ This is how you dropdown.
 <details>
 <summary>Front-end</summary>
 <br>
-  - HTML
+  * HTML
 <br>
   - CSS
+<br>
   - JavaScript
+<br>
   - React
+<br>
   - Formik
+<br>
   - Material UI
+<br>
   - Tailwind
+<br>
  </details>
 
-* Back-end
+<details>
+<summary>Back-end</summary>
+<br>
   - Ruby
+<br>
   - Ruby on Rails
+<br>
   - Python
-  - NodeJS
-  - ExpressJS
+<br>
+  - Node.js
+<br>
+  - Express.js
+<br>
   - Mongoose
+<br>
   - Prisma
+<br>
   - Active Record
+<br>
+  </details>
 
-* Databases
+
+<details>
+<summary>Databases</summary>
+<br>
   - MySQL
+<br>
   - Postgres
+<br>
   - MongoDB
+<br>
   - Firebase
+ <br>
+</details>
  
-* Certifications
-  - aws cloud practitioner(in progress)
-  - MongoDB Associate(in progress)
-  - MySQL Database Developer(in progress)
+<details>
+<summary>Databases</summary>
+<br>
+  * aws cloud practitioner(in progress)
+  * MongoDB Developer(in progress)
+<br>
+  </details>
   
 * Other
 
