@@ -79,20 +79,25 @@ This is how you dropdown.
 </details>
  
 <details>
-<summary>Databases</summary>
+<summary>Certifications</summary>
 <br>
   - aws cloud practitioner(in progress)
+   <br>
   - MongoDB Developer(in progress)
 <br>
   </details>
   
 <details>
-<summary>Databases</summary>
+<summary>Other</summary>
 <br>
   - Algolia
+<br>
   - REST APIs
+  <br>
   - Postman
+  <br>
   - Figma
+  <br>
   - Github actions
  <br>
   </details>
