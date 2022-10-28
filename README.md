@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 
-- 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](mattherzog.me)
+- 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](https://mattherzog.me/)
 
 - 📝 My newsletter where I deconstruct technical topics :point_right: [here](https://subscribe.mattherzog.me/signup)
 
