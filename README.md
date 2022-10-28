@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h2 align="left"> Software Engineering Student @ Flatiron School </h2>
 
+- 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](mattherzog.me)
 
-
-
-- 👨‍💻 My portfolio page with live demos of my projects :point_right: [here](https://mherzog4.github.io/my-personal-site/)
-
-- 📝 My newsletter where I deconstruct technical topics :point_right: [here](https://mattherzog.substack.com/)
+- 📝 My newsletter where I deconstruct technical topics :point_right: [here](https://subscribe.mattherzog.me/signup)
 
 - 📫 Reach out to me here :point_right: **matt@mattherzog.me**
 
