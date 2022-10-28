@@ -4,6 +4,9 @@
 
 - 📝 My newsletter where I deconstruct technical topics :point_right: [here](https://subscribe.mattherzog.me/signup)
 
+     <a href="placeholder.com" target="_blank">Opens in new tab</a>
+
+
 - 📫 Reach out to me here :point_right: **matt@mattherzog.me**
 
 ## Connect with me
