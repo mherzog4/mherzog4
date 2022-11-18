@@ -67,14 +67,6 @@
   - Firebase
  <br>
 </details>
- 
-<details>
-<summary>Certifications</summary>
-  - aws cloud practitioner(in progress)
-   <br>
-  - MongoDB Developer(in progress)
-<br>
-  </details>
   
 <details>
 <summary>Other</summary>
