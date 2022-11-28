@@ -88,7 +88,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mherzog4&theme=react&show_icons=true&count_private=true)
   
-<a href="https://github.com/mherzog4"><img alt="Matt activity graph" src="https://activity-graph.herokuapp.com/graph?username=mherzog4&custom_title=Matt's%20Contribution%20Graph&theme=react-dark" width = "500"/></a>
+<a href="https://github.com/mherzog4"><img alt="Matt activity graph" src="https://activity-graph.herokuapp.com/graph?username=mherzog4&custom_title=Matt's%20Contribution%20Graph&theme=react-dark" /></a>
 
 [![@mherzog4's Holopin board](https://holopin.io/api/user/board?user=mherzog4)](https://holopin.io/@mherzog4)
 
