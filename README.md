@@ -88,6 +88,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Mherzog4&theme=react&show_icons=true&count_private=true)
   
-
-[![@mherzog4's Holopin board](https://holopin.io/api/user/board?user=mherzog4)](https://holopin.io/@mherzog4)
-
