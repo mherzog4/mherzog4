@@ -14,48 +14,6 @@
 <a href="https://www.linkedin.com/in/matthewherzog3/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattherzog3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDzCTSF0N2HNG7lBDj22mFw" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="mattherzog" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/mattherzog" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitch/twitch-horizontal.svg" alt="mattherzog" height="30" width="80" /></a>
-  
-
-## Techstack
-<details>
-<summary>Front-end</summary>
-  - HTML
-<br>
-  - CSS
-<br>
-  - JavaScript
-<br>
-  - React
-<br>
-  - Formik
-<br>
-  - Material UI
-<br>
-  - Tailwind
-<br>
- </details>
-
-<details>
-<summary>Back-end</summary>
-  - Ruby
-<br>
-  - Ruby on Rails
-<br>
-  - Python
-<br>
-  - Node.js
-<br>
-  - Express.js
-<br>
-  - Mongoose
-<br>
-  - Prisma
-<br>
-  - Active Record
-<br>
-  </details>
-
-
 <details>
 <summary>Databases</summary>
   - MySQL
