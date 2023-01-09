@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 
+- 🤝 I work at Zealogics as a software engineer
+
 - 👨‍💻 Check out my portfolio page with live demos of my projects :point_right: <a href="https://mattherzog.me/docs/projects" target="_blank">here</a>
 
 - 📝 Subscribe to my newsletter where I deconstruct technical topics :point_right: 
