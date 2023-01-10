@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 
-- 🤝 Currently working at Zealogics as a software engineer
-
+- 🤝 Joined the team at Zealogics as a software engineer in January 2023
 - 👨‍💻 Check out my portfolio page with live demos of my projects :point_right: <a href="https://mattherzog.me/docs/projects" target="_blank">here</a>
 
 - 📝 Subscribe to my newsletter where I deconstruct technical topics :point_right: 
